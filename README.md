@@ -5,7 +5,7 @@ A simple machine learning project that recognizes handwritten digits using a Mul
 ## Features 
 - Trained on the MNIST handwritten digit dataset
 - Uses Scikit-learn's MLPClassifier
-- Achieves approximately **97% accuracy**
+- Achieves approximately **97% accuracy** 
 - Predicts handwritten digits from pixel values 
 
 ## Technologies Used
